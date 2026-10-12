@@ -1,0 +1,9 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "プロンプト上部にCTX・5H・7D使用量とEFFORTを表示するバンド",
+  "author": {
+    "name": "dhiroo-jpg"
+  },
+  "types": "./types/index.d.ts"
+}

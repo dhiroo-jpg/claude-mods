@@ -1,0 +1,14 @@
+{
+  "name": "atawara-mods",
+  "description": "Claude Code 用の mod 集",
+  "owner": {
+    "name": "dhiroo-jpg"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "プロンプト上部にCTX・5H・7Dの使用量とEFFORTを表示するバンド"
+    }
+  ]
+}
